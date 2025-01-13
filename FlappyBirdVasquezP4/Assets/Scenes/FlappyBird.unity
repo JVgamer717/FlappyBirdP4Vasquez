@@ -1505,7 +1505,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 86e5e683cf8f7b445aee27cf3f803671, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  columnPoolSize: 5
+  columnPoolSize: 1
   columnPrefab: {fileID: 2199122759775828841, guid: 52a0a7cfcf4b31944a17c5ba9557f75a, type: 3}
   spawnRate: 4
   columnMin: -1
